@@ -1,0 +1,37 @@
+
+body{
+   background-color: aquamarine;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 3px;
+    width: 3%;
+}
+h1{
+    color:tomato;
+}
+h3{
+    color: tomato;
+
+}
+/*
+img{
+    border-radius: 100%; 
+  
+}
+*/
+img:hover{
+    background-color: blueviolet;
+}
+.macbook{
+     background-color: red;
+     border-radius: 100%; 
+    
+}
+
+.windows {
+    background-color: greenyellow;
+    border-radius: 100%;     
+}
